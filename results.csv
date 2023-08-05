@@ -1,0 +1,5 @@
+SOLVER,AVG,MAX,MIN,STD
+<class '__main__.RandomSolver'>,4.139,8,1,1.057
+<class '__main__.ParkerSolver'>,4.928,7,1,0.996
+<class '__main__.EntropySolver'>,3.585,7,2,0.794
+<class '__main__.CustomSolver'>,3.543,6,2,0.69
