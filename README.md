@@ -19,6 +19,6 @@ Ran 1,000 trials of randomly selected words from 'wordlists/possible_words.txt' 
 
 ## Results
 
-Statistics are documented in 'results.csv'. Graph of all the trial results for each solver:
+Statistics are documented in 'results.csv'. Graph of all the trial results for each solver (frequency vs. number of guesses):
 
 ![results](https://github.com/DarthBaguette/wordle-ai/assets/46388019/5be8a9ce-b338-44b8-80b3-7809ac360d1f)
