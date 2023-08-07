@@ -25,8 +25,6 @@ class Solver(Player):
     def make_guess(self):
         """
         the make_guess function makes a guess.
-
-        Currently, it always guesses "salty". Write code here to improve your solver.
         """
         return "salty"
 
